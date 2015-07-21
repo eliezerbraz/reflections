@@ -1,0 +1,3 @@
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+- It is a space between the working directory an the repository and its value is that the changes are in version control, but not commited yet and then allow revision.
