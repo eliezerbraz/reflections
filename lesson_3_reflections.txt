@@ -16,3 +16,6 @@ What is the benefit of having a copy of the last known state of the remote store
 
 - It is easier to merge the commits done by other people.
 
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+- Using other version control tool, like svn. It will be easier since the others could see my changes without the step of going to GitHub. It would be harder since the changes would be already commited.
